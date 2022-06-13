@@ -36,7 +36,7 @@ HTML, CSS, JavaScript, Express, Node.js
 ## Lessons Learned:
 
 
-I was able to learn much more about API by creating one myself. Learned how to use postman to check my progress as well as how to deploy the file to Heroku which took me a while to succeed. 
+I was able to learn much more about using APIs by creating one myself. Learned how to use postman to test my APIs as well as how to deploy my files to Heroku. 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
