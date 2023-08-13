@@ -4,7 +4,7 @@ async function apiRequest() {
 	const alienName = document.querySelector("input").value;
 	try {
 		const response = await fetch(
-			`https://star-trek-api-demo.onrender.com/${alienName}`
+			`https://star-trek-api-demo.onrender.com/api/${alienName}`
 		);
 		const data = await response.json();
 		console.log(data);
